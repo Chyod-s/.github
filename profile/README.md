@@ -1,12 +1,14 @@
-## Hi there 👋
+# Chyod-s
 
-<!--
+null
 
-**Here are some ideas to get you started:**
+## Stack principal
+- Python · Flask · FastAPI
+- TypeScript · Node.js
+- React
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Projetos em destaque
+- **flask-anac-dashboard** — análise de dados públicos da ANAC
+- **python-application-stract** — integração com Meta Ads / Google Ads
+- **syt-playlist-downloader** — downloader de playlists YouTube/Spotify
+  
