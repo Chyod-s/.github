@@ -15,4 +15,3 @@ Time de desenvolvimento de software.
 ## 📊 Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Chyod-s&show_icons=true&theme=tokyonight)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chyod-s&layout=compact&theme=tokyonight)
