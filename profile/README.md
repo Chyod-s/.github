@@ -12,6 +12,6 @@ Time de desenvolvimento de software.
 - **python-application-stract** — integração com Meta Ads / Google Ads
 - **syt-playlist-downloader** — downloader de playlists YouTube/Spotify
 
-## 📊 Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Chyod-s&show_icons=true&theme=tokyonight)
+## 👤 Time
+[@Ton-Chyod-s](https://github.com/Ton-Chyod-s)
+[@Silvniv](https://github.com/Silvniv)
